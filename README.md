@@ -8,8 +8,6 @@
   </ul>
 </div>
 
- **<h3 align="left">Skills</h3>**
-
 <h3 align="left">Language</h3>
 
 <div>
@@ -48,8 +46,6 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=githexe&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
-</p>
 
-<p>
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=githexe&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </p>
